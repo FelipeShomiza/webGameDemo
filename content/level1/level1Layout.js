@@ -3,7 +3,7 @@ import { generateMappings } from "../generalMappings.js"
 export const level1Mappings = generateMappings("grass")
 
 export const level1Layout = [
-    [
+  [
     "                              @                                                             ",
     "                                                                                            ",
     "                             9aab                                                           ",
@@ -21,8 +21,8 @@ export const level1Layout = [
   [
     "                                                                                                     ",
     "                                                                                                     ",
-    "                                 @            @@                                                     ",
-    "                                                                                 @@                  ",
+    "                                 @           @ @                                                     ",
+    "                                                                                 @ @                 ",
     "                           @   9aab          9aab                      @                             ",
     "                               cdde          cdde                          9aaaboooo9aaab            ",
     "                          9aab cdde          cdde 9aab               9aab  cddde    cddde           @",
@@ -40,7 +40,7 @@ export const level1Layout = [
     "                                                                                                ",
     "                                                                                                ",
     "                                                                                                ",
-    "                                                   @@                        @@      @@ 9aab    ",
+    "                                                  @ @                       @ @     @ @ 9aab    ",
     "                                                                                        cdde    ",
     "                                                                                                ",
     "                                                                                                ",
